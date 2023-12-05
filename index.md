@@ -17,7 +17,7 @@ My GitHub page is http://github.com/CarlosG48.
 
 * Lab 4
 
-    Lab 4, part 4 is a favorite because it was the first lab that I really did 
+    Lab 4, part 1 is a favorite because it was the first lab that I really did 
     struggle in, but at the same time I found that challenge very fun! This lab
     was the first to introduce conversions and the use of many different types
     of variables. My partner and I definitely had a blast!
